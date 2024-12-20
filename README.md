@@ -1,4 +1,4 @@
-# Real-Time Stock Market Data Analysis with Apache Kafka and AWS
+# Real-time processing of IPL data with Apache Spark
  ## Introduction
  
 In this project, I developed an End-To-End Data Engineering pipeline for analyzing IPL (Indian Premier League) data using Apache Spark and Databricks. The project leverages the power of cloud computing with Amazon S3 for data storage, Databricks for scalable data processing, and Python libraries like Matplotlib and Seaborn for data visualization. The pipeline processes IPL data, stores it in Amazon S3, transforms it using Apache Spark, and then analyzes it with SQL queries and visualizations.
